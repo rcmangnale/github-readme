@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Developer**
 
-- 🌱 I’m currently learning **ReactJS,Bootstrap**
+- 🌱 I’m currently learning **ReactJS,Bootstrap,JQuery**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT**
 
