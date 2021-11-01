@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **ReactJS,NodeJS,MongoDB,Bootstrap,JQuery**
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NodeJS,MongoDB,ReactJS,NPm**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,NodeJS,MongoDB,ReactJS,NPM**
 
 - 📫 How to reach me **mangnalercm97@gmail.com**
 
