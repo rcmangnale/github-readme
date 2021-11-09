@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Web Developer**
 
-- 🌱 I’m currently learning **ReactJS,NodeJS,MongoDB,Bootstrap,JQuery**
+- 🌱 I’m currently learning **ReactJS,NodeJS,MongoDB,GraphQL**
 
 - 💬 Ask me about **HTML,CSS,JAVASCRIPT,NodeJS,MongoDB,ReactJS,NPM**
 
