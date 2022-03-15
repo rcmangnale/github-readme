@@ -21,9 +21,9 @@
 <p class="flex flex-col">
 <a href="https://codepen.io/rameshwarmangnale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rameshwarmangnale" height="10" width="20" /></a>
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rameshwar-mangnale/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rameshwar-mangnale/" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/rameshwar-mangnale/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/rameshwar-mangnale/" height="20" width="20" /></a>
   
-<a href="https://instagram.com/https://www.instagram.com/vaibhav_mangnale/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="https://www.instagram.com/vaibhav_mangnale/" height="20" width="20" /></a>
+<a href="https://www.instagram.com/vaibhav_mangnale/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="https://www.instagram.com/vaibhav_mangnale/" height="20" width="20" /></a>
   
 <a href="https://medium.com/@mangnalercm97" target="blank"><img align="center" src="https://miro.medium.com/max/1290/1*cbyNf_R8Ld_ZzKVv07Ezag.jpeg" alt="@mangnalercm97" height="20" width="20" /></a>
   
